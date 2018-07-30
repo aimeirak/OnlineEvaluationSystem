@@ -1,0 +1,38 @@
+/* ----------- common ----------- */
+body{margin-top:40px;}
+.navbar{background:#e6e5e5;}
+.navbar-brand{font-size:25px;}
+ul.navbar-right{margin:0;}
+.icon-bar{background-color:#fff;}
+.navbar-right{margin:0.7% 0.5% 0 0.5%;}
+.header-text{margin-top:0;}
+
+/* --------- about ------------- */
+.about-glyphicon{font-size:150px;margin:1% 0;}
+.img-founder{margin:auto;}
+.founder-box{box-shadow: 0 0 5px 2px rgba(0,0,0,.35);padding:2%;margin:1%;}
+
+/* --------- ID_search --------- */
+.card-glyphicon{font-size:50px;}
+.ID_search{margin:1% 0;}
+
+/* ------------ login ---------- */
+.login-container{margin:0.5% 0;}
+.login-form{background:#e6e5e5;box-shadow: 0 0 5px 2px rgba(0,0,0,.35);}
+.login-form form{padding:1% 0;}
+
+/* --------- footer ----------- */
+footer{background:#e6e5e5;padding-top:1%;}
+.bottom-logo{font-size:30px;}
+.bottom-glyphicon{font-size:40px;}
+p{overflow:hidden;}
+.bottom-menu{overflow:hidden;}
+.bottom-menu-text{float:left;margin-left:1%;}
+.bottom-menu img{width:30px;float:left;border-radius:15px;}
+
+/* -------- dashboard -------- */
+.dash-section{padding-top:2%;}
+.box-shadow{box-shadow: 0 0 5px 2px rgba(0,0,0,.35);}
+.form-box{margin:1% 0;}
+.img-box{width:8%;}
+.img-profile{width:16%;}
